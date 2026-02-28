@@ -1,0 +1,5 @@
+{
+  "appId": "com.gfxwhatsgood.app",
+  "appName": "npm i @capacitor/android @capacitor/ios/gfx_whatsgood",
+  "webDir": "code dist"
+}
